@@ -1,16 +1,14 @@
-### Hi there 👋
+# Ar-Ray
 
-<!--
-**Ar-Ray-code/Ar-Ray-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Pronunciation : Ar-Ray (えいあーる・れい , ei ah rei)
 
-Here are some ideas to get you started:
+- Please Check my Japanese Blog:exclamation::point_right: https://ar-ray.hatenablog.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Please Check my Twitter:exclamation::point_right: https://twitter.com/Ray255Ar
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ar-Ray-code&count_private=true&show_icons=true&theme=highcontrast" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Ray-code&theme=highcontrast" />
+</a>
