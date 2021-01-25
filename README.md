@@ -1,6 +1,6 @@
 # Ar-Ray
 
-- Pronunciation : Ar-Ray (えいあーる・れい , ei ah rei)
+- Pronunciation : Ar-Ray (えいあーる・れい , ei ar rei)
 
 - Please Check my Japanese Blog:exclamation::point_right: https://ar-ray.hatenablog.com/
 
