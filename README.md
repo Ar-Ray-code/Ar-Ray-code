@@ -1,15 +1,17 @@
-# Ar-Ray 🌟 🐢 🐧 🍓 🐋 🦈
+# Ar-Ray 🌟 🐢 🐧 🍓 🐋 🦈 ♾️
 
 - Pronunciation : Ar-Ray (えいあーる・れい , ei ar rei)
 
-- Please Check my Japanese Blog:exclamation::point_right: https://ar-ray.hatenablog.com/
-
-- Please Check my Twitter:exclamation::point_right: https://twitter.com/Ray255Ar
+- Japanese Blog:exclamation::point_right: https://ar-ray.hatenablog.com/
+- Twitter:exclamation::point_right: https://twitter.com/Ray255Ar
+- Qiita (Japanese): https://qiita.com/Ar-Ray
+- Zenn (Japanese): https://zenn.dev/array
 
 ## Projects
 - Darknet_ros_fp16🔥
-  - [Ar-Ray-code/darknet_ros_fp16](https://github.com/Ar-Ray-code/darknet_ros_fp16)
-  - [Wiki](https://github.com/Ar-Ray-code/darknet_ros_fp16/wiki/Darknet_ros_FP16-Report-(1.3x-faster)-%F0%9F%94%A5)
+  - [Ar-Ray-code/darknet_ros_fp16.git](https://github.com/Ar-Ray-code/darknet_ros_fp16)
+  - [English Wiki](https://github.com/Ar-Ray-code/darknet_ros_fp16/wiki/Darknet_ros_FP16-Report-(1.3x-faster)-%F0%9F%94%A5)
+  - [Japanese Wiki (Zenn)](https://zenn.dev/array/articles/4c82fc8382e62d)
 - Motpy-ROS
   - [Ar-Ray-code/motpy_ros.git](https://github.com/Ar-Ray-code/motpy_ros)
   - [Qiita](https://qiita.com/Ar-Ray/items/4d68c8d958796bf8f4de)
