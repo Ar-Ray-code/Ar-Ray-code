@@ -17,6 +17,7 @@
   - [Qiita](https://qiita.com/Ar-Ray/items/4d68c8d958796bf8f4de)
 - rclshark🦈
   - [Ar-Ray-code/rclshark.git](https://github.com/Ar-Ray-code/rclshark)
+  - [Zenn](https://zenn.dev/array/articles/9fd8cb5941bb94)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ar-Ray-code&count_private=true&show_icons=true&theme=highcontrast" />
