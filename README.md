@@ -8,18 +8,15 @@
 - Zenn (Japanese): https://zenn.dev/array
 
 ## Projects
-- Darknet_ros_fp16🔥
-  - [Ar-Ray-code/darknet_ros_fp16.git](https://github.com/Ar-Ray-code/darknet_ros_fp16)
+- [Darknet_ros_fp16](https://github.com/Ar-Ray-code/darknet_ros_fp16)🔥
   - [English Wiki](https://github.com/Ar-Ray-code/darknet_ros_fp16/wiki/Darknet_ros_FP16-Report-(1.3x-faster)-%F0%9F%94%A5)
   - [Japanese Wiki (Zenn)](https://zenn.dev/array/articles/4c82fc8382e62d)
-- Motpy-ROS
-  - [Ar-Ray-code/motpy_ros.git](https://github.com/Ar-Ray-code/motpy_ros)
+- [Motpy-ROS](https://github.com/Ar-Ray-code/motpy_ros)
   - [Qiita](https://qiita.com/Ar-Ray/items/4d68c8d958796bf8f4de)
-- rclshark🦈
-  - [Ar-Ray-code/rclshark.git](https://github.com/Ar-Ray-code/rclshark)
+- [rclshark](https://github.com/Ar-Ray-code/rclshark)🦈
   - [Zenn](https://zenn.dev/array/articles/9fd8cb5941bb94)
 
-- Tutorials (n preparation) 🐢
+- Tutorials (In preparation) 🐢
   - [ROS1:C++](https://github.com/Ar-Ray-code/roscpp_tutorial)
   - [ROS1:Python](https://github.com/Ar-Ray-code/rospy_tutorial)
   - [ROS2:C++](https://github.com/Ar-Ray-code/rclcpp_tutorial)
