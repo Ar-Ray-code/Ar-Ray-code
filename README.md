@@ -33,7 +33,7 @@
 
 [![LAPRAS](https://img.shields.io/badge/LAPRAS-Ar--Ray-9cf)](https://lapras.com/public/QZU7PYJ)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)
 
 
 <!-- - Japanese Blog:exclamation::point_right: https://ar-ray.hatenablog.com/
