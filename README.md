@@ -2,9 +2,7 @@
 
 - Pronunciation : Ar-Ray (えいあーる・れい , ei ar rei)
 
-![](https://metrics.lecoq.io/Ar-Ray-code?template=classic&config.timezone=Asia%2FTokyo)
-
-![](https://komarev.com/ghpvc/?username=Ar-Ray-code)
+<!-- ![](https://komarev.com/ghpvc/?username=Ar-Ray-code) -->
 
 [![hatenablog](https://img.shields.io/badge/hatenablog-%E3%81%88%E3%81%84%E3%81%82%E3%83%BC%E3%82%8B%E3%82%8C%E3%81%84%E3%81%AE%E6%8A%80%E8%A1%93%E6%97%A5%E8%A8%98-blueviolet)](https://ar-ray.hatenablog.com)
 
@@ -37,8 +35,9 @@
 
 [![LAPRAS](https://img.shields.io/badge/LAPRAS-Ar--Ray-9cf)](https://lapras.com/public/QZU7PYJ)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)
+![metrics](https://metrics.lecoq.io/Ar-Ray-code?template=classic&config.timezone=Asia%2FTokyo)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)
 
 <!-- - Japanese Blog:exclamation::point_right: https://ar-ray.hatenablog.com/
 - Twitter:exclamation::point_right: https://twitter.com/Ray255Ar
