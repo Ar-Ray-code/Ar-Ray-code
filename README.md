@@ -6,6 +6,27 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Ar-Ray/contributions.svg)](http://qiita.com/Ar-Ray)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Ar-Ray/followers.svg)](http://qiita.com/Ar-Ray)
 [![Twitter](https://img.shields.io/twitter/follow/Ray255Ar?label=Followers%20%40Ray255Ar&style=social)](https://twitter.com/Ray255Ar)
+<!-- Like のバッジ -->
+<a href="https://zenn.dev/array">
+  <img src="https://zenn.badge.nikaera.com/s/array/likes?style=plastic" alt="array likes" />
+</a>
+<!-- Articles のバッジ -->
+<a href="https://zenn.dev/array/articles">
+  <img src="https://zenn.badge.nikaera.com/s/array/articles?style=plastic" alt="array articles" />
+</a>
+<!-- Followers のバッジ -->
+<a href="https://zenn.dev/array/followers">
+  <img src="https://zenn.badge.nikaera.com/s/array/followers?style=plastic" alt="array followers" />
+</a>
+<!-- Books のバッジ -->
+<a href="https://zenn.dev/array/books">
+ <img src="https://zenn.badge.nikaera.com/s/array/books?style=plastic" alt="array books" />
+</a>
+<!-- Scraps のバッジ -->
+<a href="https://zenn.dev/array/scraps">
+  <img src="https://zenn.badge.nikaera.com/s/array/scraps?style=plastic" alt="array scraps" />
+</a>
+  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)](https://github.com/Ar-Ray-code/github-profile-trophy)
 
