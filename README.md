@@ -1,8 +1,8 @@
 # Ar-Ray 🌟 🐢 🐧 🍓 🐋 🦈 ♾️
 
 - Pronunciation : Ar-Ray (えいあーる・れい , ei ar rei)
-<!-- 
-![](https://metrics.lecoq.io/Ar-Ray-code?template=classic&config.timezone=Asia%2FTokyo) -->
+
+![](https://metrics.lecoq.io/Ar-Ray-code?template=classic&config.timezone=Asia%2FTokyo)
 
 ![](https://komarev.com/ghpvc/?username=Ar-Ray-code)
 
