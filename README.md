@@ -35,7 +35,7 @@
 
 [![LAPRAS](https://img.shields.io/badge/LAPRAS-Ar--Ray-9cf)](https://lapras.com/public/QZU7PYJ)
 
-![metrics](https://metrics.lecoq.io/Ar-Ray-code?template=classic&config.timezone=Asia%2FTokyo)
+<!-- ![metrics](https://metrics.lecoq.io/Ar-Ray-code?template=classic&config.timezone=Asia%2FTokyo) -->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)
 
