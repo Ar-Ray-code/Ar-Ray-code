@@ -2,6 +2,11 @@
 
 - Pronunciation : Ar-Ray (えいあーる・れい , ei ar rei)
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Ar-Ray/posts.svg)](http://qiita.com/Ar-Ray)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Ar-Ray/contributions.svg)](http://qiita.com/Ar-Ray)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/Ar-Ray/followers.svg)](http://qiita.com/Ar-Ray)
+[![Twitter](https://img.shields.io/twitter/follow/Ray255Ar?label=Followers%20%40Ray255Ar&style=social)](https://twitter.com/Ray255Ar)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)](https://github.com/Ar-Ray-code/github-profile-trophy)
 
 
