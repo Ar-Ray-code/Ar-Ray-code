@@ -7,7 +7,7 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Ar-Ray/posts.svg)](http://qiita.com/Ar-Ray)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Ar-Ray/contributions.svg)](http://qiita.com/Ar-Ray)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Ar-Ray/followers.svg)](http://qiita.com/Ar-Ray)
-[![Twitter](https://img.shields.io/twitter/follow/Ray255Ar?label=Followers%20%40Ray255Ar&style=social)](https://twitter.com/Ray255Ar)
+
 <!-- Like のバッジ -->
 <a href="https://zenn.dev/array">
   <img src="https://zenn.badge.nikaera.com/s/array/likes?style=plastic" alt="array likes" />
@@ -28,7 +28,8 @@
 <a href="https://zenn.dev/array/scraps">
   <img src="https://zenn.badge.nikaera.com/s/array/scraps?style=plastic" alt="array scraps" />
 </a>
-  
+
+[![Twitter](https://img.shields.io/twitter/follow/Ray255Ar?label=Followers%20%40Ray255Ar&style=social)](https://twitter.com/Ray255Ar)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)](https://github.com/Ar-Ray-code/github-profile-trophy)
 
