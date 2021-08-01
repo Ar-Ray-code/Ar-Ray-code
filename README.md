@@ -45,7 +45,7 @@
 - Qiita (Japanese): https://qiita.com/Ar-Ray
 - Zenn (Japanese): https://zenn.dev/array -->
 
-## Projects
+<!-- ## Projects
 - [Darknet_ros_fp16](https://github.com/Ar-Ray-code/darknet_ros_fp16)🔥
   - [English Wiki](https://github.com/Ar-Ray-code/darknet_ros_fp16/wiki/Darknet_ros_FP16-Report-(1.3x-faster)-%F0%9F%94%A5)
   - [Japanese Wiki (Zenn)](https://zenn.dev/array/articles/4c82fc8382e62d)
@@ -58,7 +58,7 @@
   - [ROS1:C++](https://github.com/Ar-Ray-code/roscpp_tutorial)
 , [ROS1:Python](https://github.com/Ar-Ray-code/rospy_tutorial)
 , [ROS2:C++](https://github.com/Ar-Ray-code/rclcpp_tutorial)
-, [ROS2:Python](https://github.com/Ar-Ray-code/rclpy_tutorial)
+, [ROS2:Python](https://github.com/Ar-Ray-code/rclpy_tutorial) -->
 
 <!--a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ar-Ray-code&count_private=true&show_icons=true&theme=highcontrast" />
