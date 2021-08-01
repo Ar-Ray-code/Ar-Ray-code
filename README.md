@@ -2,6 +2,11 @@
 
 - Pronunciation : Ar-Ray (えいあーる・れい , ei ar rei)
 
+
+![](https://komarev.com/ghpvc/?username=Ar-Ray-code)
+
+![Metrics](https://metrics.lecoq.io/Ar-Ray-code?template=classic&config.timezone=Asia%2FTokyo)
+
 [![hatenablog](https://img.shields.io/badge/hatenablog-%E3%81%88%E3%81%84%E3%81%82%E3%83%BC%E3%82%8B%E3%82%8C%E3%81%84%E3%81%AE%E6%8A%80%E8%A1%93%E6%97%A5%E8%A8%98-blueviolet)](https://ar-ray.hatenablog.com)
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Ar-Ray/posts.svg)](http://qiita.com/Ar-Ray)
