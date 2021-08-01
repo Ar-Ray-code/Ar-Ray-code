@@ -2,6 +2,8 @@
 
 - Pronunciation : Ar-Ray (えいあーる・れい , ei ar rei)
 
+[![hatenablog](https://img.shields.io/badge/hatenablog-%E3%81%88%E3%81%84%E3%81%82%E3%83%BC%E3%82%8B%E3%82%8C%E3%81%84%E3%81%AE%E6%8A%80%E8%A1%93%E6%97%A5%E8%A8%98-blueviolet)](https://ar-ray.hatenablog.com)
+
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Ar-Ray/posts.svg)](http://qiita.com/Ar-Ray)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Ar-Ray/contributions.svg)](http://qiita.com/Ar-Ray)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Ar-Ray/followers.svg)](http://qiita.com/Ar-Ray)
@@ -31,10 +33,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)](https://github.com/Ar-Ray-code/github-profile-trophy)
 
 
-- Japanese Blog:exclamation::point_right: https://ar-ray.hatenablog.com/
+<!-- - Japanese Blog:exclamation::point_right: https://ar-ray.hatenablog.com/
 - Twitter:exclamation::point_right: https://twitter.com/Ray255Ar
 - Qiita (Japanese): https://qiita.com/Ar-Ray
-- Zenn (Japanese): https://zenn.dev/array
+- Zenn (Japanese): https://zenn.dev/array -->
 
 ## Projects
 - [Darknet_ros_fp16](https://github.com/Ar-Ray-code/darknet_ros_fp16)🔥
