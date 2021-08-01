@@ -31,7 +31,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/Ray255Ar?label=Followers%20%40Ray255Ar&style=social)](https://twitter.com/Ray255Ar)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)](https://github.com/Ar-Ray-code/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)]
 
 
 <!-- - Japanese Blog:exclamation::point_right: https://ar-ray.hatenablog.com/
