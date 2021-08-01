@@ -31,6 +31,8 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/Ray255Ar?label=Followers%20%40Ray255Ar&style=social)](https://twitter.com/Ray255Ar)
 
+[![LAPRAS](https://img.shields.io/badge/LAPRAS-Ar--Ray-9cf)](https://lapras.com/public/QZU7PYJ)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)]
 
 
