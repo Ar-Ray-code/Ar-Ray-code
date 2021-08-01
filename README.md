@@ -2,6 +2,9 @@
 
 - Pronunciation : Ar-Ray (えいあーる・れい , ei ar rei)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)](https://github.com/Ar-Ray-code/github-profile-trophy)
+
+
 - Japanese Blog:exclamation::point_right: https://ar-ray.hatenablog.com/
 - Twitter:exclamation::point_right: https://twitter.com/Ray255Ar
 - Qiita (Japanese): https://qiita.com/Ar-Ray
