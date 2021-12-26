@@ -68,4 +68,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Ray-code&theme=highcontrast" />
 </a-->
 
-<img src="images/umamusume-detect.jpg" alt="umamusume-detect" style="zoom:25%;" />	
+[![](images/umamusume-detect.jpg)](https://github.com/Ar-Ray-code/urara-challenge)
