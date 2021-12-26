@@ -68,7 +68,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Ray-code&theme=highcontrast" />
 </a-->
 
-## Repositories
+## Repositories（リポジトリ）
+
+バナーをクリックするとリポジトリに飛びます。
 
 Click banners to access my GitHub repositories.
 
