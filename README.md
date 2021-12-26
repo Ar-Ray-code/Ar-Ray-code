@@ -57,9 +57,9 @@
 
 - Tutorials (In preparation) 🐢
   - [ROS1:C++](https://github.com/Ar-Ray-code/roscpp_tutorial)
-, [ROS1:Python](https://github.com/Ar-Ray-code/rospy_tutorial)
-, [ROS2:C++](https://github.com/Ar-Ray-code/rclcpp_tutorial)
-, [ROS2:Python](https://github.com/Ar-Ray-code/rclpy_tutorial) -->
+  , [ROS1:Python](https://github.com/Ar-Ray-code/rospy_tutorial)
+  , [ROS2:C++](https://github.com/Ar-Ray-code/rclcpp_tutorial)
+  , [ROS2:Python](https://github.com/Ar-Ray-code/rclpy_tutorial) -->
 
 <!--a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ar-Ray-code&count_private=true&show_icons=true&theme=highcontrast" />
@@ -67,3 +67,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Ray-code&theme=highcontrast" />
 </a-->
+
+<img src="images/umamusume-detect.jpg" alt="umamusume-detect" style="zoom:25%;" />	
