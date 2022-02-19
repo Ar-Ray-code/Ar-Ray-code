@@ -7,6 +7,11 @@
   ← icon for twitter（2021~）
 </p>
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Ar-Ray-code/Ar-Ray-code/main/images/urara-pyoi.jpg" width=5%>
+  ← URARA-Challenge ❗❗（2022）
+</p>
+
 <!-- ![](https://komarev.com/ghpvc/?username=Ar-Ray-code) -->
 
 [![hatenablog](https://img.shields.io/badge/hatenablog-%E3%81%88%E3%81%84%E3%81%82%E3%83%BC%E3%82%8B%E3%82%8C%E3%81%84%E3%81%AE%E6%8A%80%E8%A1%93%E6%97%A5%E8%A8%98-blueviolet)](https://ar-ray.hatenablog.com)
