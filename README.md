@@ -2,6 +2,11 @@
 
 - Pronunciation : Ar-Ray (えいあーる・れい , ei ar rei)
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Ar-Ray-code/Ar-Ray-code/main/images/ar-ray.jpeg" width=5%>
+  ← icon for twitter（2021~）
+</p>
+
 <!-- ![](https://komarev.com/ghpvc/?username=Ar-Ray-code) -->
 
 [![hatenablog](https://img.shields.io/badge/hatenablog-%E3%81%88%E3%81%84%E3%81%82%E3%83%BC%E3%82%8B%E3%82%8C%E3%81%84%E3%81%AE%E6%8A%80%E8%A1%93%E6%97%A5%E8%A8%98-blueviolet)](https://ar-ray.hatenablog.com)
@@ -41,32 +46,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)
 
-<!-- - Japanese Blog:exclamation::point_right: https://ar-ray.hatenablog.com/
-- Twitter:exclamation::point_right: https://twitter.com/Ray255Ar
-- Qiita (Japanese): https://qiita.com/Ar-Ray
-- Zenn (Japanese): https://zenn.dev/array -->
-
-<!-- ## Projects
-- [Darknet_ros_fp16](https://github.com/Ar-Ray-code/darknet_ros_fp16)🔥
-  - [English Wiki](https://github.com/Ar-Ray-code/darknet_ros_fp16/wiki/Darknet_ros_FP16-Report-(1.3x-faster)-%F0%9F%94%A5)
-  - [Japanese Wiki (Zenn)](https://zenn.dev/array/articles/4c82fc8382e62d)
-- [Motpy-ROS](https://github.com/Ar-Ray-code/motpy_ros)
-  - [Qiita](https://qiita.com/Ar-Ray/items/4d68c8d958796bf8f4de)
-- [rclshark](https://github.com/Ar-Ray-code/rclshark)🦈
-  - [Zenn](https://zenn.dev/array/articles/9fd8cb5941bb94)
-
-- Tutorials (In preparation) 🐢
-  - [ROS1:C++](https://github.com/Ar-Ray-code/roscpp_tutorial)
-  , [ROS1:Python](https://github.com/Ar-Ray-code/rospy_tutorial)
-  , [ROS2:C++](https://github.com/Ar-Ray-code/rclcpp_tutorial)
-  , [ROS2:Python](https://github.com/Ar-Ray-code/rclpy_tutorial) -->
-
-<!--a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ar-Ray-code&count_private=true&show_icons=true&theme=highcontrast" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Ray-code&theme=highcontrast" />
-</a-->
 
 ## Repositories（リポジトリ）
 
