@@ -48,6 +48,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)
 
+<!-- ![Ar-Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ar-Ray-code&show_icons=true&theme=radical) -->
+
 
 ## Repositories（リポジトリ）
 
