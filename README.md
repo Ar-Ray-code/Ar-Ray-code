@@ -50,7 +50,7 @@
 
 <!-- ![Ar-Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ar-Ray-code&show_icons=true&theme=radical) -->
 
-
+<!-- 
 ## Repositories（リポジトリ）
 
 バナーをクリックするとリポジトリに飛びます。
@@ -60,5 +60,5 @@ Click banners to access my GitHub repositories.
 [![](https://raw.githubusercontent.com/Ar-Ray-code/rclshark/main/images_for_readme/rclshark-title.png)](https://github.com/Ar-Ray-code/rclshark)
 
 [![](images/darknet_ros_fp16.png)](https://github.com/Ar-Ray-code/darknet_ros_fp16)
-
-[![](images/umamusume-detect.jpg)](https://github.com/Ar-Ray-code/urara-challenge)
+ -->
+<!-- [![](images/umamusume-detect.jpg)](https://github.com/Ar-Ray-code/urara-challenge) -->
