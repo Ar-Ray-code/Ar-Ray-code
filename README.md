@@ -5,8 +5,8 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/Ar-Ray-code/Ar-Ray-code/main/images/ar-ray.jpeg" width=5%>
   ← icon for twitter & blog（2021~）
-  <img src="https://raw.githubusercontent.com/Ar-Ray-code/Ar-Ray-code/main/images/urara-pyoi.jpg" width=5%>
-  ← URARA-Challenge MODE❗❗（2022）
+<!--   <img src="https://raw.githubusercontent.com/Ar-Ray-code/Ar-Ray-code/main/images/urara-pyoi.jpg" width=5%>
+  ← URARA-Challenge MODE❗❗（2022） -->
 </p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=Ar-Ray-code) -->
@@ -54,7 +54,7 @@
 
 
 **Please support me**❗ 👉 [![](https://user-images.githubusercontent.com/4967343/89290226-7660bb00-d650-11ea-9c30-3e4fc8502ad5.png)](https://github.com/sponsors/Ar-Ray-code)
-
+<!-- 
 <a align="left" href="https://www.buymeacoffee.com/ray255ar">
   <img src="https://raw.githubusercontent.com/Ar-Ray-code/Ar-Ray-code/main/images/bmc-button.png" width=15%>
-</a>
+</a> -->
