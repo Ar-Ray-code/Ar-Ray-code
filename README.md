@@ -3,8 +3,8 @@
 - Pronunciation : Ar-Ray (えいあーる・れい , ei ar rei)
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Ar-Ray-code/Ar-Ray-code/main/images/ar-ray.jpeg" width=5%>
-  ← icon for twitter & blog（2021~）
+<!--   <img src="https://raw.githubusercontent.com/Ar-Ray-code/Ar-Ray-code/main/images/ar-ray.jpeg" width=5%>
+  ← icon for twitter & blog（2021~） -->
 <!--   <img src="https://raw.githubusercontent.com/Ar-Ray-code/Ar-Ray-code/main/images/urara-pyoi.jpg" width=5%>
   ← URARA-Challenge MODE❗❗（2022） -->
 </p>
