@@ -1,8 +1,6 @@
-# Ar-Ray 🥰🍓🥕🎠🐢🤖
+# Ar-Ray 🥰 🍓 🥕 🎠 🐢 🤖
 
-- Pronunciation : Ar-Ray (えいあーる・れい , ei ar rei)
-
-[![hatenablog](https://img.shields.io/badge/hatenablog-%E3%81%88%E3%81%84%E3%81%82%E3%83%BC%E3%82%8B%E3%82%8C%E3%81%84%E3%81%AE%E6%8A%80%E8%A1%93%E6%97%A5%E8%A8%98-blueviolet)](https://ar-ray.hatenablog.com)
+読み方 : Ar-Ray (えいあーるれい , ei ar rei)
 
 <!-- Like のバッジ -->
 <a href="https://zenn.dev/array">
@@ -25,14 +23,13 @@
   <img src="https://zenn.badge.nikaera.com/s/array/scraps?style=plastic" alt="array scraps" />
 </a>
 
+[![hatenablog](https://img.shields.io/badge/hatenablog-%E3%81%88%E3%81%84%E3%81%82%E3%83%BC%E3%82%8B%E3%82%8C%E3%81%84%E3%81%AE%E6%8A%80%E8%A1%93%E6%97%A5%E8%A8%98-blueviolet)](https://ar-ray.hatenablog.com)
+
 [![Twitter](https://img.shields.io/twitter/follow/Ray255Ar?label=Followers%20%40Ray255Ar&style=social)](https://twitter.com/Ray255Ar)
 
 [![LAPRAS](https://img.shields.io/badge/LAPRAS-Ar--Ray-9cf)](https://lapras.com/public/QZU7PYJ)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ar-Ray-code&count_private=true&show_icons=true" />
-</a>
-
+お仕事　🧳　： [05_Career](https://ar-ray-code.github.io/05_Career/)
 <br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ar-Ray-code&theme=onedark)
